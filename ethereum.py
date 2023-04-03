@@ -21,7 +21,7 @@ def check_balance(address):
     if balance > 0:
         winsound.Beep(1000, 1000)
     if balance > 0:
-        with open("found.txt", "a") as f:
+        with open("balance-found.txt", "a") as f:
             f.write(f"{address}: {balance} ETH\n")
 
 with open(addresses_file) as f:
