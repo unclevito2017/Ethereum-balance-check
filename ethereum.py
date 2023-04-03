@@ -3,7 +3,7 @@ import time
 import winsound
 
 addresses_file = "eaddresses.txt"
-api_key = "WAZDPMPBA23WZ2JADYSDKGNYJK66CG6WCC"
+api_key = "Enter API KEY HERE"
 api_url = "https://api.etherscan.io/api"
 
 def check_balance(address):
