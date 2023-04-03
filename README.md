@@ -2,7 +2,7 @@
 
 Check multiple Ethereum addresses from single file with audible alert of balance found<p>
 
-Print balance-found.txt
+Prints balance-found.txt
 
 using Etherscan.io API (need a free api key) https://info.etherscan.com/etherscan-developer-api-key/ enter in the code
 
