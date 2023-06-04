@@ -18,4 +18,4 @@ test file with addresses is included for testing
 
 Windows and Linux (Linux has no sound)
 
-If you like the program and want to help feed lost or homeless cats and dogs my bitcoin address is 3KUrwLXLJKyZmnR5tozarEWUTcYEFeGbny but certainly not required
+If you like the program and want to help feed lost or homeless cats and dogs my bitcoin address is bc1qus09g0n5jwg79gje76zxqmzt3gpw80dcqspsmm but certainly not required
